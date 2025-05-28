@@ -43,6 +43,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+App is available at `https://omari-heartstrokeprediction.streamlit.app/`.
+
 # Tools & Technologies
 
 - **Python**: Core language for data analysis and modeling
