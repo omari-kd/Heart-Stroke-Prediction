@@ -45,10 +45,14 @@ streamlit run app.py
 
 # Tools & Technologies
 
-- Python (pandas, NumPy, Matplotlib, Seaborn, scikit-learn) — For data analysis, visualization and modelling.
-- Jupyter Notebook — Interactive coding and documentation environment.
-- VS Code — Integrated Development Environment for scripting and analysis.
-- GitHub — Version control and collaborative development.
+- **Python**: Core language for data analysis and modeling
+  - `pandas`, `NumPy` — for data manipulation and numerical operations
+  - `Matplotlib`, `Seaborn` — for data visualization
+  - `scikit-learn` — for machine learning modeling and evaluation
+- **Jupyter Notebook**: For interactive development, analysis, and documentation of the data science workflow
+- **Streamlit**: For deploying the model as a simple web app
+- **VS Code**: Code editing and project management
+- **Git & GitHub**: Version control and collaboration
 
 # Contribution
 
