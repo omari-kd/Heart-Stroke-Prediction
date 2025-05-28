@@ -20,3 +20,12 @@ The dataset used in this project contains information necessary to predict the o
 
 # Data Visualisation
 ![Image](https://github.com/user-attachments/assets/1f7a9a4e-6d27-4273-b7fc-1ec61e6e9c12)
+
+# Tools & Technologies 
+- Python (pandas, NumPy, Matplotlib, Seaborn, scikit-learn) — For data analysis, visualization and modelling.
+- Jupyter Notebook — Interactive coding and documentation environment.
+- VS Code — Integrated Development Environment for scripting and analysis.
+- GitHub — Version control and collaborative development.
+
+# Contribution
+Open to suggestions and improvements! Submit issues or pull requests.
