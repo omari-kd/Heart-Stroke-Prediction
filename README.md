@@ -49,7 +49,7 @@ streamlit run app.py
   - `pandas`, `NumPy` — for data manipulation and numerical operations
   - `Matplotlib`, `Seaborn` — for data visualization
   - `scikit-learn` — for machine learning modeling and evaluation
-- **Jupyter Notebook**: For interactive development, analysis, and documentation of the data science workflow
+- **Jupyter Notebook**: For interactive development, analysis and documentation of the data science workflow
 - **Streamlit**: For deploying the model as a simple web app
 - **VS Code**: Code editing and project management
 - **Git & GitHub**: Version control and collaboration
