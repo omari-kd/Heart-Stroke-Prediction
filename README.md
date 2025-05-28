@@ -17,3 +17,6 @@ The dataset used in this project contains information necessary to predict the o
 - bmi: Body mass index
 - smoking_status: "Formerly smoked", "Never smoked", "Smokes" or "Unknown"
 - stroke: 1 if the patient had a stroke, 0 if not
+
+# Data Visualisation
+![Image](https://github.com/user-attachments/assets/1f7a9a4e-6d27-4273-b7fc-1ec61e6e9c12)
